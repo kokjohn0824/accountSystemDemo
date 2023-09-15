@@ -1,0 +1,36 @@
+// app global css in SCSS form
+
+// 帳號管理
+.title-size {
+    font-size: xx-large;
+}
+.input-title {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.form-input-filled {
+    width: auto;
+}
+
+.form-input-80 {
+    width: 80%;
+    margin: auto;
+}
+
+.form-display {
+    // width: 80%;
+    margin: auto;
+}
+
+.td-left {
+    width: 20%;
+    text-align: right;
+    font-weight: bolder;
+    font-size: medium !important;
+}
+
+.td-right {
+    text-align: left;
+    font-size: medium !important;
+}
